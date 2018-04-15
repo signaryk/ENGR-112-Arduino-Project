@@ -9,4 +9,4 @@ This project was completed using Pololu's "Zumo" line of robots, including the 3
 ---
 **Goalie**: Uses Zumo32U4 robot to drive forwards and backwards in order to act as a goalkeeper at the end of an obstacle course. Also plays "The Final Countdown"
 
-**remoteInterpret**: Uses the Zumo Shield, Arduino Uno, and XBee radio modules to navigate obstacle courses by receiving commands remotely via the radio module.
+**remoteInterpret**: Uses the Zumo Shield, Arduino Uno, and XBee radio modules to navigate obstacle courses by receiving commands remotely via the radio module. (NOTE: TurnSensor.cpp and TurnSensor.h are forked from Pololu's Zumo32U4 repository and adapted for use with the Zumo Shield)
